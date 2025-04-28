@@ -1,7 +1,3 @@
-# Re:Imagined
-
-AI recreates old artwork
-
 ## But What If
 ![what_if_i_fall](https://github.com/user-attachments/assets/633a1572-a7c1-463b-af4c-ba2cc8eeb3c0)
 ![what_if_i_fall-ai](https://github.com/user-attachments/assets/dc14006d-738e-4c6b-95df-0015f026d828)
